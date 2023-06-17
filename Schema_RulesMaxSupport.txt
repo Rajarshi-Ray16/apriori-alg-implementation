@@ -1,0 +1,125 @@
+Fight Club : ['Silence of the Lambs, The', 'Pulp Fiction', 'Matrix, The']
+Silence of the Lambs, The : ['Fight Club', 'Pulp Fiction', 'Matrix, The']
+Pulp Fiction : ['Fight Club', 'Silence of the Lambs, The', 'Matrix, The']
+Matrix, The : ['Fight Club', 'Silence of the Lambs, The', 'Pulp Fiction']
+==============
+Forrest Gump : ['Fight Club', 'Pulp Fiction', 'Matrix, The']
+Fight Club : ['Forrest Gump', 'Pulp Fiction', 'Matrix, The']
+Pulp Fiction : ['Forrest Gump', 'Fight Club', 'Matrix, The']
+Matrix, The : ['Forrest Gump', 'Fight Club', 'Pulp Fiction']
+==============
+Star Wars: Episode IV - A New Hope : ['Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode VI - Return of the Jedi : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode V - The Empire Strikes Back : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Matrix, The']
+Matrix, The : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
+Terminator 2: Judgment Day : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode IV - A New Hope : ['Terminator 2: Judgment Day', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode VI - Return of the Jedi : ['Terminator 2: Judgment Day', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode V - The Empire Strikes Back : ['Terminator 2: Judgment Day', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi']
+==============
+Shawshank Redemption, The : ['Forrest Gump', 'Pulp Fiction', 'Matrix, The']
+Forrest Gump : ['Shawshank Redemption, The', 'Pulp Fiction', 'Matrix, The']
+Pulp Fiction : ['Shawshank Redemption, The', 'Forrest Gump', 'Matrix, The']
+Matrix, The : ['Shawshank Redemption, The', 'Forrest Gump', 'Pulp Fiction']
+==============
+Shawshank Redemption, The : ['Forrest Gump', 'Silence of the Lambs, The', 'Pulp Fiction']
+Forrest Gump : ['Shawshank Redemption, The', 'Silence of the Lambs, The', 'Pulp Fiction']
+Silence of the Lambs, The : ['Shawshank Redemption, The', 'Forrest Gump', 'Pulp Fiction']
+Pulp Fiction : ['Shawshank Redemption, The', 'Forrest Gump', 'Silence of the Lambs, The']
+==============
+Shawshank Redemption, The : ['Star Wars: Episode IV - A New Hope', 'Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode IV - A New Hope : ['Shawshank Redemption, The', 'Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back']
+Pulp Fiction : ['Shawshank Redemption, The', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode V - The Empire Strikes Back : ['Shawshank Redemption, The', 'Star Wars: Episode IV - A New Hope', 'Pulp Fiction']
+==============
+Shawshank Redemption, The : ['Forrest Gump', 'Fight Club', 'Pulp Fiction']
+Forrest Gump : ['Shawshank Redemption, The', 'Fight Club', 'Pulp Fiction']
+Fight Club : ['Shawshank Redemption, The', 'Forrest Gump', 'Pulp Fiction']
+Pulp Fiction : ['Shawshank Redemption, The', 'Forrest Gump', 'Fight Club']
+==============
+Shawshank Redemption, The : ['Forrest Gump', 'Pulp Fiction', 'Usual Suspects, The']
+Forrest Gump : ['Shawshank Redemption, The', 'Pulp Fiction', 'Usual Suspects, The']
+Pulp Fiction : ['Shawshank Redemption, The', 'Forrest Gump', 'Usual Suspects, The']
+Usual Suspects, The : ['Shawshank Redemption, The', 'Forrest Gump', 'Pulp Fiction']
+==============
+Forrest Gump : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode IV - A New Hope : ['Forrest Gump', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode VI - Return of the Jedi : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode V - The Empire Strikes Back : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi']
+==============
+Shawshank Redemption, The : ['Forrest Gump', 'Pulp Fiction', 'Seven (a.k.a. Se7en)']
+Forrest Gump : ['Shawshank Redemption, The', 'Pulp Fiction', 'Seven (a.k.a. Se7en)']
+Pulp Fiction : ['Shawshank Redemption, The', 'Forrest Gump', 'Seven (a.k.a. Se7en)']
+Seven (a.k.a. Se7en) : ['Shawshank Redemption, The', 'Forrest Gump', 'Pulp Fiction']
+==============
+Forrest Gump : ['Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode VI - Return of the Jedi : ['Forrest Gump', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode V - The Empire Strikes Back : ['Forrest Gump', 'Star Wars: Episode VI - Return of the Jedi', 'Matrix, The']
+Matrix, The : ['Forrest Gump', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
+Shawshank Redemption, The : ['Fight Club', 'Silence of the Lambs, The', 'Pulp Fiction']
+Fight Club : ['Shawshank Redemption, The', 'Silence of the Lambs, The', 'Pulp Fiction']
+Silence of the Lambs, The : ['Shawshank Redemption, The', 'Fight Club', 'Pulp Fiction']
+Pulp Fiction : ['Shawshank Redemption, The', 'Fight Club', 'Silence of the Lambs, The']
+==============
+Star Wars: Episode IV - A New Hope : ['Star Wars: Episode VI - Return of the Jedi', 'Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode VI - Return of the Jedi : ['Star Wars: Episode IV - A New Hope', 'Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back']
+Pulp Fiction : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode V - The Empire Strikes Back : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Pulp Fiction']
+==============
+Forrest Gump : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)']
+Star Wars: Episode IV - A New Hope : ['Forrest Gump', 'Star Wars: Episode V - The Empire Strikes Back', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)']
+Star Wars: Episode V - The Empire Strikes Back : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)']
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
+Shawshank Redemption, The : ['Silence of the Lambs, The', 'Pulp Fiction', 'Matrix, The']
+Silence of the Lambs, The : ['Shawshank Redemption, The', 'Pulp Fiction', 'Matrix, The']
+Pulp Fiction : ['Shawshank Redemption, The', 'Silence of the Lambs, The', 'Matrix, The']
+Matrix, The : ['Shawshank Redemption, The', 'Silence of the Lambs, The', 'Pulp Fiction']
+==============
+Forrest Gump : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode IV - A New Hope : ['Forrest Gump', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode V - The Empire Strikes Back : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Matrix, The']
+Matrix, The : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
+Star Wars: Episode IV - A New Hope : ['Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Pulp Fiction : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode V - The Empire Strikes Back : ['Star Wars: Episode IV - A New Hope', 'Pulp Fiction', 'Matrix, The']
+Matrix, The : ['Star Wars: Episode IV - A New Hope', 'Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
+Star Wars: Episode IV - A New Hope : ['Star Wars: Episode VI - Return of the Jedi', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)', 'Matrix, The']
+Star Wars: Episode VI - Return of the Jedi : ['Star Wars: Episode IV - A New Hope', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)', 'Matrix, The']
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Matrix, The']
+Matrix, The : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)']
+==============
+Shawshank Redemption, The : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode IV - A New Hope : ['Shawshank Redemption, The', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode V - The Empire Strikes Back : ['Shawshank Redemption, The', 'Star Wars: Episode IV - A New Hope', 'Matrix, The']
+Matrix, The : ['Shawshank Redemption, The', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
+Shawshank Redemption, The : ['Forrest Gump', 'Fight Club', 'Matrix, The']
+Forrest Gump : ['Shawshank Redemption, The', 'Fight Club', 'Matrix, The']
+Fight Club : ['Shawshank Redemption, The', 'Forrest Gump', 'Matrix, The']
+Matrix, The : ['Shawshank Redemption, The', 'Forrest Gump', 'Fight Club']
+==============
+Star Wars: Episode IV - A New Hope : ['Jurassic Park', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+Jurassic Park : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode VI - Return of the Jedi', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode VI - Return of the Jedi : ['Star Wars: Episode IV - A New Hope', 'Jurassic Park', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode V - The Empire Strikes Back : ['Star Wars: Episode IV - A New Hope', 'Jurassic Park', 'Star Wars: Episode VI - Return of the Jedi']
+==============
+Star Wars: Episode IV - A New Hope : ['Silence of the Lambs, The', 'Star Wars: Episode V - The Empire Strikes Back', 'Pulp Fiction']
+Silence of the Lambs, The : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back', 'Pulp Fiction']
+Star Wars: Episode V - The Empire Strikes Back : ['Star Wars: Episode IV - A New Hope', 'Silence of the Lambs, The', 'Pulp Fiction']
+Pulp Fiction : ['Star Wars: Episode IV - A New Hope', 'Silence of the Lambs, The', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
+Forrest Gump : ['Star Wars: Episode IV - A New Hope', 'Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode IV - A New Hope : ['Forrest Gump', 'Pulp Fiction', 'Star Wars: Episode V - The Empire Strikes Back']
+Pulp Fiction : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+Star Wars: Episode V - The Empire Strikes Back : ['Forrest Gump', 'Star Wars: Episode IV - A New Hope', 'Pulp Fiction']
+==============
+Terminator 2: Judgment Day : ['Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode IV - A New Hope : ['Terminator 2: Judgment Day', 'Star Wars: Episode V - The Empire Strikes Back', 'Matrix, The']
+Star Wars: Episode V - The Empire Strikes Back : ['Terminator 2: Judgment Day', 'Star Wars: Episode IV - A New Hope', 'Matrix, The']
+Matrix, The : ['Terminator 2: Judgment Day', 'Star Wars: Episode IV - A New Hope', 'Star Wars: Episode V - The Empire Strikes Back']
+==============
